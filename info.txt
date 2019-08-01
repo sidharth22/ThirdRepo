@@ -2,4 +2,5 @@ This is a critical way to create a file
 commit #2 during squash activity
 commit #3 during squash activity
 commit #4 during squah activity
-commit #5 during squash activity
+commit #5 during squash activit
+commit #6 during squash activity

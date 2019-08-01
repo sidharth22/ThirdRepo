@@ -1,1 +1,2 @@
-This is a critical way to create a file 
+This is a critical way to create a file
+commit #2 during squash activity
